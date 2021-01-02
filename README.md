@@ -1,5 +1,6 @@
-#chats between two operating systems
-Python program to implement chatting between two OS using the concept of Socket Programming and Multi-threading.
+#Chats between two operating systems
+
+Created own server program using Python to implement chatting between two OS using the concept of Socket Programming and Multi-threading.
 
 #Requirements:
 1. Connectivity between Operating systems involved in chatting.
@@ -8,3 +9,4 @@ Python program to implement chatting between two OS using the concept of Socket 
 Run the Python programs on both the systems and start the communication!
 
 Video Link for Demo:
+https://www.linkedin.com/posts/priyanka-bharti-03b990198_vimaldaga-righteducation-rightmentor-activity-6751139785844305920-nk8M
