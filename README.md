@@ -9,4 +9,4 @@ Created own server program using Python to implement chatting between two OS usi
 Run the Python programs on both the systems and start the communication!
 
 Video Link for Demo:
-https://www.linkedin.com/posts/priyanka-bharti-03b990198_vimaldaga-righteducation-rightmentor-activity-6751139785844305920-nk8M
+[https://www.linkedin.com/posts/priyanka-bharti-03b990198_vimaldaga-righteducation-rightmentor-activity-6751139785844305920-nk8M](https://www.linkedin.com/posts/priyanka-bhartii_vimaldaga-righteducation-rightmentor-activity-6751139785844305920-ughQ?utm_source=share&utm_medium=member_desktop)
